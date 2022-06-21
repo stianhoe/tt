@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 4.2.0</desc>
+<defs>
+  <linearGradient id="foreground_color">
+  <stop stop-color="#4BB748"/>
+  </linearGradient>
+  <linearGradient id="background_color">
+  <stop stop-color="transparent"/>
+  </linearGradient>
+  <linearGradient id="ball_color">
+  <stop stop-color="white"/>
+  </linearGradient>
+  <linearGradient id="ball_dimples_color">
+  <stop stop-color="gray"/>
+  </linearGradient>
+  <linearGradient id="ferrel_color">
+  <stop stop-color="gold"/>
+  </linearGradient>
+  <linearGradient id="club_head_color">
+  <stop stop-color="#ffffff"/>
+  </linearGradient>
+  <linearGradient id="shaft_color">
+  <stop stop-color="#ffffff"/>
+  </linearGradient>
+  <linearGradient id="peg_color">
+  <stop stop-color="brown"/>
+  </linearGradient>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
+<g transform="matrix(1 0 0 1 540 540)" id="2381cb01-1783-452f-a9a1-2cb4be5e824c"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#background_color); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(0 0 0 0 0 0)" id="a2d0fa57-7f41-4d57-8e31-4ba99040c08f"  >
+</g>
+<g transform="matrix(5.05 0 0 3.11 908.39 987.05)" id="cae974af-d13d-4702-b545-c257762d2012"  >
+<rect style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#peg_color); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-33.085" y="-33.085" rx="0" ry="0" width="66." height="61" />
+</g>
+<g transform="matrix(-0.78 -0.34 -3.98 9.18 930.78 289.81)" id="5f6f5935-3377-49af-8469-2b3e58f85570"  >
+<rect style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#shaft_color); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-33.085" y="-33.085" rx="0" ry="0" width="66.17" height="66.17" />
+</g>
+<g transform="matrix(-8.67 -4.35 -3.76 7.5 519.47 732.83) scale(-1,1)" id="f872cb4d-7647-4c0f-93f8-3ceb5e76c55d"  >
+<circle style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#club_head_color); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="35" />
+</g>
+<g transform="matrix(-0.52 0 0 -0.52 586 546)  scale(-1,1)">
+<path style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#foreground_color); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-1022.5, -1024.58)" d="M 1745 2034 C 1550 1999 1385 1942 1185 1842 C 553 1526 106 841 71 132 L 65 0 L 1023 0 L 1980 0 L 1980 1027 C 1980 1661 1976 2050 1971 2045 C 1956 2030 1572 1160 1519 1022 C 1511 1000 1509 1000 1473 1015 C 1453 1024 1435 1032 1433 1034 C 1429 1038 1515 1244 1640 1530 C 1838 1982 1864 2053 1833 2049 C 1829 2049 1789 2042 1745 2034 z M 518 1024 C 735 980 971 864 1184 696 C 1217 671 1247 650 1252 650 C 1256 650 1267 667 1275 688 C 1284 708 1309 766 1331 816 L 1371 908 L 1411 892 C 1432 884 1450 873 1450 869 C 1450 858 1300 517 1291 507 C 1284 500 1245 509 925 595 C 813 625 753 637 746 630 C 739 623 740 616 747 609 C 752 604 871 568 1009 530 C 1245 466 1296 450 1258 450 C 1243 450 1187 464 831 560 C 712 592 634 608 628 602 C 611 585 648 569 827 521 C 1207 419 1248 406 1243 394 C 1237 379 1218 383 861 486 C 661 543 563 567 556 560 C 550 554 549 547 556 540 C 564 532 743 479 1158 363 C 1192 353 1220 340 1220 333 C 1220 326 1215 320 1208 320 C 1201 320 1048 361 868 411 C 570 494 485 511 517 479 C 523 473 644 435 787 394 C 1189 279 1158 289 1132 279 C 1116 273 1034 292 817 354 C 547 431 483 443 517 409 C 523 403 618 372 727 340 C 1049 246 1028 254 1004 246 C 991 242 897 264 754 305 C 604 347 522 366 516 360 C 498 342 525 330 685 285 C 771 261 847 239 854 236 C 886 220 752 245 663 271 C 562 301 533 302 544 274 C 553 249 522 259 500 287 C 464 333 391 494 368 577 C 337 692 337 869 368 968 C 394 1051 391 1050 518 1024 z M 1758 811 C 1811 784 1848 741 1869 682 C 1888 631 1888 629 1868 563 C 1843 480 1798 431 1723 406 C 1663 386 1619 394 1554 436 C 1503 469 1474 512 1459 576 C 1449 619 1450 635 1465 683 C 1506 813 1640 872 1758 811 z M 1779 323 C 1735 272 1680 150 1667 72 L 1656 8 L 1644 73 C 1629 152 1575 273 1531 323 L 1498 360 L 1655 360 L 1812 360 L 1779 323 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(3.28 0 0 3.28 919.17 757.75) scale(-1,1)" id="4705230b-c77c-4276-b6d8-36df04a3e305"  >
+<circle style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#ball_color); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="35" />
+</g>
+<g transform="matrix(-0.57 -0.24 -0.2 0.46 807.12 573.35) scale(-1,1)" id="466621ca-659e-4184-b9f2-0fbc754e5188"  >
+<rect style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#ferrel_color); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-37.46" y="-19.415" rx="0" ry="0" width="74.92" height="38.83" />
+</g>
+<g transform="matrix(0.34 0 0 0.34 992 801)" id="39d406f5-e930-4103-844b-fc403b96d30b"  >
+<circle style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#ball_dimples_color); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="30" />
+</g>
+<g transform="matrix(0.34 0 0 0.34 971 822)" id="39d406f5-e930-4103-844b-fc403b96d30b"  >
+<circle style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#ball_dimples_color); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="30" />
+</g>
+<g transform="matrix(0.34 0 0 0.34 980 771)" id="39d406f5-e930-4103-844b-fc403b96d30b"  >
+<circle style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#ball_dimples_color); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="30" />
+</g>
+<g transform="matrix(0.34 0 0 0.34 959 792)" id="39d406f5-e930-4103-844b-fc403b96d30b"  >
+<circle style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#ball_dimples_color); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="30" />
+</g>
+<g transform="matrix(0.34 0 0 0.34 940 814)" id="39d406f5-e930-4103-844b-fc403b96d30b"  >
+<circle style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#ball_dimples_color); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="30" />
+</g>
+</svg>
